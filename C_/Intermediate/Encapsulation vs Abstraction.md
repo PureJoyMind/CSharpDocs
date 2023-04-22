@@ -1,0 +1,7 @@
+Encapsulation and abstraction are two fundamental concepts in object-oriented programming (OOP). While they share some similarities, they serve different purposes.
+
+Encapsulation is the process of hiding the internal details of an object from the outside world and exposing only what is necessary for the object to function. In other words, encapsulation ensures that the internal state of an object is protected and cannot be accessed or modified directly by external code. Instead, the object provides a well-defined interface, usually in the form of public methods, to interact with its internal state.
+
+Abstraction, on the other hand, is the process of reducing complex systems into simpler, more manageable components. In OOP, abstraction involves creating abstract classes or interfaces that define the behavior and properties that objects of a certain type should have, without specifying how those behaviors and properties are implemented. Abstraction allows developers to focus on the high-level design of a system without getting bogged down in the details of implementation.
+
+In summary, encapsulation is concerned with hiding the internal state of an object from the outside world, while abstraction is concerned with reducing complexity and defining the essential properties and behaviors of an object.
