@@ -9,8 +9,8 @@ Go to the `C_` folder. all the `.md` files are there.
 I have checked all the files for typos but notify me if you find any.
 
 ## Sources
-The main source of these notes is Mosh Hamedani's course. I highly recommend it because he covers all the usefull data needed to deliver real world projects.
-The course begins from basic syntax to advance Object Oriented Programming concetps.
+The main source of these notes is Mosh Hamedani's course. I highly recommend it because he covers all the useful data needed to deliver real world projects.
+The course begins from basic syntax to advance Object Oriented Programming concepts.
 
 ## Finished 
 I have finished my course. I am going for ASP.NET but I will not upload in this repo. I will create a new repo for that.
