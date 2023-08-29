@@ -5,15 +5,15 @@ This course starts from beginning to advanced.
 You can use these if you want to recollect your existing data and need a refresher.
 
 ## How To Use
-Go to the `C_` folder. all the `.md` files are there. 
+Go to the `CSharp` folder. all the `.md` files are there. 
 I have checked all the files for typos but notify me if you find any.
-
+There are to folders: mosh, essential csharp
+Each is for a different learning material. 
 ## Sources
-The main source of these notes is Mosh Hamedani's course. I highly recommend it because he covers all the useful data needed to deliver real world projects.
-The course begins from basic syntax to advance Object Oriented Programming concepts.
+The first source of these notes is Mosh Hamedani's course. I highly recommend it because he covers all the useful data needed to deliver real world projects.
+The course begins from basic syntax to advance Object Oriented Programming concepts. This course is good enough to get you started on the language.
 
-## Finished 
-I have finished my course. I am going for ASP.NET but I will not upload in this repo. I will create a new repo for that.
+For a deeper understanding of cSharp you obviously have to look at some good books. I am reading the book "Essential CSharp" which covers all the syntax and special cases in CSharp.
 
 ***
 It took considerable time writing these. Use them to your liking!
